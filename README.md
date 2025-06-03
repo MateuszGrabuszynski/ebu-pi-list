@@ -1,15 +1,15 @@
-# Project Status: No Longer Actively Maintained
-**Important Notice:**
+# Project Status
 
-This project is no longer actively maintained. While the code remains available for reference and use, please be aware of the following:
+**Important Notice:** This is a fork of a [project](https://github.com/ebu/pi-list) that was started by the European Broadcasting Union (EBU) in 2017, but is no longer actively maintained by them.
+
+Please consider, that the original license is transferred to the fork. This means, no warranty or liability is provided.
+
+The original notice warns to be aware of the following:
 - **Ageing Codebase:** The project may rely on outdated dependencies or practices no longer considered best-in-class.
 - **Potential Security Risks:** Due to the lack of ongoing updates, security vulnerabilities could exist or arise over time.
 - **Use at Your Own Risk:** We recommend reviewing the code and dependencies carefully before using it in production environments.
 
-We encourage forks and community-driven efforts if you wish to continue development or address potential issues.
-
-Thank you to everyone who contributed, used, and supported this project!
-
+Although the aim is to fix some of the issues mentioned above, it will not happen immediately. This message may or may not be removed at a later stage.
 
 # Live IP Software Toolkit to assist EBU members in the implementation of IP based facilities
 
@@ -27,10 +27,6 @@ LIST is composed by:
 | Quickly see if your streams are compliant with ST2110. |  ![](docs/pcap_overview.png)   |
 | See each individual stream                             | ![](docs/stream_overview.png)  |
 | Drill drown on each stream and understand the details  | ![](docs/stream_drilldown.png) |
-
-## Dematerialized version
-
-We deployed an [online version](https://list.ebu.io/) that you can start using right away.
 
 ## Your own instance of LIST
 
@@ -55,3 +51,7 @@ We deployed an [online version](https://list.ebu.io/) that you can start using r
 ## License
 
 See [LICENSE](LICENSE.md) for more information.
+
+## Note from the fork author
+
+I forked the original repository to work on it in my free time. This forked repository is not connected to any of my employers in any way.
